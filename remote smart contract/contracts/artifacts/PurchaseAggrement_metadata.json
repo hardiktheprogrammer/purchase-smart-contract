@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/1_remote smart contract .sol": "PurchaseAggrement"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/1_remote smart contract .sol": {
+			"keccak256": "0x99d628f5c6240a22783552458c02ccbab05c8291d16c4e9e475aa2d5fbb26be2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://95598036e067cb1536753ad82a2f9891d96be3bd7604a387082f2f868642ca8b",
+				"dweb:/ipfs/QmUS7rhD4pFiWsEyLkJrrEewBmh5JqQWuyyFpECSzYkGhy"
+			]
+		}
+	},
+	"version": 1
+}
